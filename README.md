@@ -10,9 +10,10 @@
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 
 [website]: https://www.hust.edu.vn/
 [facebook]: https://www.facebook.com/attaboiii5/
 [linkedin]: https://www.linkedin.com/in/tuan-nguyen-a19595215/
+[email]: tuan.nd051020@gmail.com
 [hust]: https://www.hust.edu.vn/
