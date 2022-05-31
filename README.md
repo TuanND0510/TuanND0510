@@ -18,4 +18,4 @@
 [linkedin]: https://www.linkedin.com/in/tuan-nguyen-a19595215/
 [email]: mailto:tuan.nd0510@gmail.com
 [hust]: https://www.hust.edu.vn/
-[youtube]:.https://www.youtube.com/channel/UCF-Fsj4fRimy0Jmi-RlJElQ
+[youtube]: https://www.youtube.com/channel/UCF-Fsj4fRimy0Jmi-RlJElQ/
