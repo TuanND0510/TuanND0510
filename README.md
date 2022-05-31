@@ -1,5 +1,6 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=TuanND0510&show_icons=true">
-### Hi there I'm Tuan
+
+## Hi there I'm Tuan
 
 ## Something about me!!
 - 👨‍🎓 I’m a student at [Ha Noi University of Science and Technology][hust]
