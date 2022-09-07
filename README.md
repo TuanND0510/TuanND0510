@@ -30,7 +30,7 @@
 
 [website]: http://tuan182861.tk/
 [facebook]: https://www.facebook.com/attaboiii5/
-[linkedin]: https://www.linkedin.com/in/tuan-nguyen-a19595215/
+[linkedin]: https://www.linkedin.com/in/tuan-nguyen-dinh-a19595215/
 [email]: mailto:tuan.nd0510@gmail.com
 [hust]: https://www.hust.edu.vn/
 [youtube]: https://www.youtube.com/channel/UCF-Fsj4fRimy0Jmi-RlJElQ/
