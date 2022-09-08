@@ -29,7 +29,7 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 [website]: https://tuannd0510.github.io/TuanND0510/
-[facebook]: https://www.facebook.com/attaboiii5/
+[facebook]: https://www.facebook.com/100018057494267/
 [linkedin]: https://www.linkedin.com/in/tuan-nguyen-dinh-a19595215/
 [email]: mailto:tuan.nd0510@gmail.com
 [hust]: https://www.hust.edu.vn/
