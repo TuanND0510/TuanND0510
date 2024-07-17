@@ -3,8 +3,8 @@
 # Hi there I'm Tuan
 
 ## Something about me!!
-- 👨‍🎓 I’m a student at [Ha Noi University of Science and Technology][hust]
-- 🏫 I’m currently learning Electronics and Telecommunication
+- 👨‍🎓 I graduated from HUST [Ha Noi University of Science and Technology][hust]
+- 🏫 I’m working as a C++ developer.
 
 ## Languages and Tools:
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
